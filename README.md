@@ -1,3 +1,3 @@
-# DSA
+# Problem Solving
 
-Fully dedicated for DSA only.
+Fully dedicated to problem-solving in different languages.
